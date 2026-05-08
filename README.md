@@ -21,7 +21,5 @@ This repository serves as my primary technical hub, organized into three core pi
 - **Current Status:** 5th/12th Trimester of ICT Engineering.
 - **Objective:** Securing a professional Blue Team role by Sept/Oct 2026.
 
-![Alejandro's Stats](https://github-readme-stats.vercel.app/api?username=alejandrov07&show_icons=true&theme=nord)
-
 ---
 📍 **Based in:** Santo Domingo, Dominican Republic
