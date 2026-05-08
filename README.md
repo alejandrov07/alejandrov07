@@ -1,4 +1,4 @@
-# He i'm Alejandro Velázquez
+# Hello i'm Alejandro Velázquez
 
 **ICT Engineering Student** | **Future Blue Team Professional** | **Technical Documentation Specialist**
 
