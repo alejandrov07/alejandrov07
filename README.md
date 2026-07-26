@@ -18,7 +18,7 @@ This repository serves as my primary technical hub, organized into three core pi
 - **Soft Skills:** Professional Technical Writing (Blue Team Standard), Portuguese (Learning).
 
 ### 📈 Metrics & Goals
-- **Current Status:** 5th/12th Trimester of ICT Engineering.
+- **Current Status:** 6th/12th Semester of ICT Engineering.
 - **Objective:** Securing a professional Blue Team role by Sept/Oct 2026.
 
 ---
