@@ -17,7 +17,7 @@ This repository serves as my primary technical hub, organized into three core pi
 - **Soft Skills:** Professional Technical Writing, Portuguese (Learning).
 
 ### 📈 Metrics & Goals
-- **Current Status:** 6th/8th Semester of ICT Engineering.
+- **Current Status:** 6th/12th Term of ICT Engineering.
 - **Objective:** Securing an entry-level IT/systems role by Sept/Oct 2026.
 
 ---
