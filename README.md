@@ -6,7 +6,7 @@ I am an ICT Engineering student with a strong focus on **Data Architecture**, **
 ---
 
 ### 🏦 Featured Project: Banking Data Warehouse & ETL Pipeline  
-🔗 **[Explore the Repository →](https://github.com/alejandrov07/banking-data-warehouse-etl)**
+**(https://github.com/alejandrov07/banking-data-warehouse-etl)**
 
 This project is the centerpiece of my portfolio, built to mirror the requirements of a real-world banking data architecture role. It encompasses the full lifecycle of a Data Warehouse:
 
