@@ -1,29 +1,27 @@
-# Hello, I'm Alejandro Velázquez  
-**ICT Engineering Student** | **Data Architecture & Engineering** | **Technical Documentation Specialist**
+# Hello, I'm Alejandro Velázquez
 
-I am an ICT Engineering student with a strong focus on **Data Architecture**, **ETL Pipelines**, and **Database Engineering**. My GitHub showcases a progression from academic projects to a professional-grade **Data Warehouse implementation for a simulated banking environment**, demonstrating my ability to design, document, and execute data solutions that are scalable, governable, and aligned with business strategy.
+**ICT Engineering Student** | **Data Engineering** | **ETL/ELT & Data Warehousing**
+
+I'm an ICT Engineering student focused on data engineering: ETL/ELT pipelines, database design, and data quality. My GitHub tracks a progression from coursework to a full end-to-end Data Warehouse build for a simulated banking environment, covering pipeline design, security, and documentation practices closer to what a regulated data environment actually expects.
 
 ---
 
-### 🏦 Featured Project: Banking Data Warehouse & ETL Pipeline  
-**(https://github.com/alejandrov07/banking-data-warehouse-etl)**
+### 🏦 Featured Project: Banking Data Warehouse & ETL Pipeline
+**[github.com/alejandrov07/banking-data-warehouse-etl](https://github.com/alejandrov07/banking-data-warehouse-etl)**
 
-This project is the centerpiece of my portfolio, built to mirror the requirements of a real-world banking data architecture role. It encompasses the full lifecycle of a Data Warehouse:
+An end-to-end Python/Pandas ETL pipeline feeding a SQL Server Star Schema warehouse (4 dimensions + 1 fact table), built to mirror the governance and security expectations of a regulated banking data environment.
 
-- **Design & Governance:**  
-  - Star Schema (DIM/FACT tables) with surrogate keys.  
-  - Full **Data Dictionary** (metadata documentation) and **Data Lineage** (value chain mapping).  
-  - **Project Charter** defining scope, risks, and sprint roadmap.  
-
-- **Implementation (ETL):**  
-  - Python-based ETL pipeline reading from simulated source systems (Core Banking & Credit Cards).  
-  - Data cleansing, deduplication (Golden Key by Cedula), and quality validation (6 errors detected).  
-  - Load to SQL Server with referential integrity and indexes.
-
-- **Visualization:**  
-  - Power BI dashboards showing sales trends, customer segmentation, and data quality metrics.
-
-🔑 **Key Metrics:** 20 unique clients, 63 cleansed transactions, 6 quality alerts logged.
+- **Design & Governance**
+  - Star Schema with surrogate keys, full data dictionary, and documented data lineage
+- **Pipeline**
+  - Automated ETL: synthetic data generation, deduplication via golden key, validation rules, load
+  - Achieved 90.48% data cleanliness through automated QA checks and anomaly detection
+- **Security & Access Control**
+  - Row-Level Security predicate functions scoping analyst access by branch
+  - Validated across 5 roles (analyst, auditor, admin, ETL service) using EXECUTE AS testing
+  - Tuned RLS query performance with composite indexes, reducing subquery cost to 102 logical reads
+- **Visualization**
+  - Power BI dashboards for sales trends, top clients, and data quality KPIs
 
 ---
 
@@ -31,12 +29,10 @@ This project is the centerpiece of my portfolio, built to mirror the requirement
 
 | Area | Technologies |
 | :--- | :--- |
-| **Data Engineering** | Python (Pandas), SQL Server (T-SQL), ETL/ELT, Star Schema, Data Quality |
-| **Databases** | Relational Design, Query Optimization, Indexing, Stored Procedures |
+| **Data Engineering** | Python (Pandas, NumPy), SQL Server (T-SQL, CTEs, window functions), ETL/ELT, Star Schema, Data Quality & Validation |
+| **Data Security** | Row-Level Security, Security Policies, Role-Based Access Control, IAM |
 | **Business Intelligence** | Power BI, Data Modeling, DAX |
-| **Development** | Flask, Node.js/Express, React, Git/GitHub |
-| **IT & Systems** | Windows/Linux Administration, Active Directory, ITSM, IAM |
-| **Cloud Fundamentals** | Azure (AZ-900 in progress), Entra ID (SC-900 in progress) |
+| **Development** | Git/GitHub, REST APIs |
 
 ---
 
@@ -44,28 +40,22 @@ This project is the centerpiece of my portfolio, built to mirror the requirement
 
 | Certification | Status |
 | :--- | :--- |
-| Google Cybersecurity Professional Certificate | In Progress (Coursera) |
-| Azure Fundamentals (AZ-900) | In Progress (Est. Nov 2026) |
-| Security Fundamentals (SC-900) | In Progress (Est. Oct 2026) |
-| Introduction to Cybersecurity (Cisco) | Completed (Apr 2025) |
-| Networking Basics (Cisco) | Completed (Mar 2025) |
+| Google Cybersecurity Professional Certificate | In Progress |
+| Introduction to Cybersecurity (Cisco) | Completed |
+| Networking Basics (Cisco) | Completed |
 
 ---
 
-### 📈 Current Focus & Goals
+### 📈 Current Focus
 
-- **Academic:** 6th/12th semester of ICT Engineering at UNIBE, Santo Domingo.
-- **Professional Objective:** Transitioning from IT support to a **Data Architecture / Data Engineering** role within the banking or financial sector, leveraging my ETL, DWH, and governance skills.
-- **Next Steps:** Expanding my portfolio with a real-time data streaming project (Kafka) and deepening Azure data services (Synapse, Data Factory).
+- **Academic:** 7th of 12 semesters, ICT Engineering at UNIBE, Santo Domingo.
+- **Structured Learning:** Working through a self-directed 100-day Data Engineering roadmap — SQL, Python, ETL/Data Quality, Airflow, Docker, and AWS Cloud Fundamentals — building toward job-readiness for entry-level Data Engineer roles.
+- **Direction:** Still exploring exactly where I want to specialize within data, but ETL pipelines, data warehousing, and the governance/security side of data engineering are where I keep finding myself drawn back to.
 
 ---
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/alejandro-velazquez](https://linkedin.com/in/alejandro-velazquez)  
-- **Email:** alejandro.velazquez.reyes07@gmail.com  
+- **LinkedIn:** [linkedin.com/in/alejandro-velazquez](https://www.linkedin.com/in/alejandro-velazquez-9b0375387/)
+- **Email:** alejandro.velazquez.reyes07@gmail.com
 - **Location:** Santo Domingo, Dominican Republic
-
----
-
-*This profile is a living document of my journey from academic projects to professional-grade data solutions.*
