@@ -56,6 +56,6 @@ An end-to-end Python/Pandas ETL pipeline feeding a SQL Server Star Schema wareho
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/alejandro-velazquez](https://www.linkedin.com/in/alejandro-velazquez-9b0375387/)
+- **LinkedIn:** [https://www.linkedin.com/in/alejandro-velazquez-9b0375387/](https://www.linkedin.com/in/alejandro-velazquez-9b0375387/)
 - **Email:** alejandro.velazquez.reyes07@gmail.com
 - **Location:** Santo Domingo, Dominican Republic
