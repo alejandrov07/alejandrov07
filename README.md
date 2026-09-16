@@ -40,7 +40,8 @@ An end-to-end Python/Pandas ETL pipeline feeding a SQL Server Star Schema wareho
 
 | Certification | Status |
 | :--- | :--- |
-| Google Cybersecurity Professional Certificate | In Progress |
+| IBM Data Engineer Professional Certificate | In Progress |
+| Google Cybersecurity Professional Certificate | Completed |
 | Introduction to Cybersecurity (Cisco) | Completed |
 | Networking Basics (Cisco) | Completed |
 
